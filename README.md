@@ -2,9 +2,10 @@
 
 ### Мой стек:
 <p>
-<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/html.svg" alt="CSS3" title="CSS3" height="45">
-<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="45">
- </p>
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/html.svg" alt="HTML5" title="HTML5" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/js.svg" alt="JavaScript" title="JavaScript" height="50">
+</p>
  
  CSS3
 
