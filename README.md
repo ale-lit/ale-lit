@@ -29,5 +29,5 @@
  
 ### 🥇 Моя статистика:
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ale-lit&hide=contribs&show_icons=true&border_color=bec5cc" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit&layout=compact&border_color=d0d7de" height="140">
+<img src="https://github-readme-stats.vercel.app/api?username=ale-lit&hide=contribs&show_icons=true&border_color=aab1b7" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit&layout=compact&border_color=d0d7de" height="140">
 </div>
