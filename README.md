@@ -1,5 +1,5 @@
-Всем привет! 👋 Меня зовут Александр, и я хочу стать веб разработчиком.🖐
-
+Привет, меня зовут Александр, и я занимаюсь веб-разработкой! 👋 
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
