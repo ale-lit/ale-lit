@@ -1,8 +1,12 @@
 ### Привет, меня зовут Александр, и я занимаюсь веб-разработкой! 👋 
 
 ### Мой стек:
+<p>
 <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/html.svg" alt="CSS3" title="CSS3" height="45">
-<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="45"> CSS3
+<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="45">
+ </p>
+ 
+ CSS3
 
 
  
