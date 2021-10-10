@@ -13,20 +13,10 @@
   
 
  
- CSS3
+## Моя статистика
 
 
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-HTML5
-CSS3
-Адаптивная кроссбраузерная верстка
+<img src="https://github-readme-stats.vercel.app/api?username=ale-lit&hide=contribs&show_icons=true" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit&layout=compact" height="140">
 
 **ale-lit/ale-lit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
