@@ -11,12 +11,7 @@
 Ещё изучаю:<br><p align="center"><img src="https://github.com/ale-lit/ale-lit/blob/main/icons/js.svg" alt="JavaScript" title="JavaScript" height="50"> <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/python.svg" alt="Python" title="Python" height="50"> <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/react.svg" alt="React" title="React" height="50"> <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/nodejs.svg" alt="NodeJS" title="NodeJS" height="50"></p> |  
 </div>
 
-### 🤩 Моё неполное портфолио:
-<div align="center">
-  
-https://ale-lit.ru/
---- |
-</div>
+### 🤩 Моё неполное портфолио: https://ale-lit.ru/
  
 ### 🥇 Моя статистика:
 <div align="center"> 
