@@ -5,6 +5,12 @@
   <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/html.svg" alt="HTML5" title="HTML5" height="50">
   <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="50">
   <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/js.svg" alt="JavaScript" title="JavaScript" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/jquery.svg" alt="jQuery" title="jQuery" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/react.svg" alt="React" title="React" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/react.svg" alt="PHP" title="PHP" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/react.svg" alt="Python" title="Python" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/mysql.svg" alt="MySQL" title="MySQL" height="50">
+  <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/git.svg" alt="Git" title="Git" height="50">
 </p>
  
  CSS3
