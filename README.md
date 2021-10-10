@@ -1,4 +1,4 @@
-### Hi there 👋
+Всем привет! 👋 Меня зовут Александр, и я хочу стать веб разработчиком.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
 
