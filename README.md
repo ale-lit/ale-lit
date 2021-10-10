@@ -1,6 +1,6 @@
 ### Привет, меня зовут Александр, и я занимаюсь веб-разработкой! 👋 
 
-
+## Мой стек
 <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="50"> CSS3
 
 
@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Мой стек
+
 
 HTML5
 CSS3
