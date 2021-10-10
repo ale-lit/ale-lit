@@ -1,7 +1,7 @@
 ### Привет, меня зовут Александр, и я занимаюсь веб-разработкой! 👋 
 
 
-<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="25px"> CSS3
+<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg" alt="CSS3" title="CSS3" height="30px"> CSS3
 
 
  
