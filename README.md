@@ -18,5 +18,6 @@ https://ale-lit.ru/
 --- |
  
 ### 🥇 Моя статистика:
-
+<div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=ale-lit&hide=contribs&show_icons=true" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit&layout=compact" height="140">
+</div>
