@@ -1,4 +1,9 @@
 ### Привет, меня зовут Александр, и я занимаюсь веб-разработкой! 👋 
+
+
+<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/css.svg">
+
+
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-lit)](https://github.com/anuraghazra/github-readme-stats)
 
