@@ -39,8 +39,9 @@
 ---
  
 **🥇 Моя статистика:**
-<div align="center"> 
-<a href="https://www.codewars.com/users/AleLit"><img src="https://www.codewars.com/users/AleLit/badges/large"></a>
+<div align="center">
+  
+[![Рейтинг на Codewars](https://www.codewars.com/users/AleLit/badges/large)](https://www.codewars.com/users/AleLit "Мой профиль на Codewars")
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ale-lit&hide=contribs&show_icons=true&border_color=c2cad0" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-lit&layout=compact&border_color=d0d7de" height="140">
 </div>
