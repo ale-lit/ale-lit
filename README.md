@@ -25,8 +25,9 @@
 ---
 
 **📫 Мои контакты:**
-- Email: alelit@internet.ru
-- Telegram: @alelitv
+
+* **Email:** alelit@internet.ru
+* **Telegram:** @alelitv
 
 ---
 
