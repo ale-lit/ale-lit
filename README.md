@@ -19,7 +19,6 @@
   
 **🤩 Моё неполное портфолио:** https://ale-lit.ru/
 ------------- |
-**Telegram:** <a href="https://t.me/alelitv">@alelitv</a>
   
 </div>
 
