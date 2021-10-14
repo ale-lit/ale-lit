@@ -19,14 +19,9 @@
   
 **🤩 Моё неполное портфолио:** https://ale-lit.ru/
 ------------- |
-**📫 Мои контакты:**<br>**Email:** alelit@internet.ru<br>**Telegram:** @alelitv
+  **Email:** alelit@internet.ru<br>**Telegram:** <a href="https://t.me/alelitv">@alelitv</a>
   
 </div>
-
-**📫 Мои контакты:**
-
-* **Email:** alelit@internet.ru
-* **Telegram:** @alelitv
 
 ---
 
