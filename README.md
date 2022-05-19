@@ -25,8 +25,10 @@
 </div>
 
 **📢 Мои контакты:**
-- https://t.me/alelitv
-- alelit [собакен] internet.ru 
+
+tg: https://t.me/alelitv
+
+mail: alelit <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog.svg" alt="Собакен" title="Собакен" height="22"> internet.ru 
 
 ---
 
