@@ -30,6 +30,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mail:** alelit[<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg" alt="@" title="@" height="22" align="center">](#)internet.ru
 
+![Альтернативный текст](https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg)
+
 ---
 
 **📈 Мой прогресс:**
