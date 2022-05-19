@@ -32,11 +32,7 @@
 
 ---
 
-![https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg][https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg]
-
-![Картинка][image1]
-
-[image1]: https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg
+![Одна собака](/icons/dog7.svg "Собака смотрит влево")
 
 **📈 Мой прогресс:**
 
