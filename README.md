@@ -32,6 +32,8 @@
 
 ---
 
+![https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg][https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg]
+
 **📈 Мой прогресс:**
 
 <div align="center">
