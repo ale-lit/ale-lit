@@ -26,9 +26,9 @@
 
 **📢 Мои контакты:**
 
-tg: https://t.me/alelitv
+**tg:** https://t.me/alelitv
 
-mail: alelit <img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog.svg" alt="Собакен" title="Собакен" height="22"> internet.ru 
+**mail:** alelit<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog2.svg" alt="@" title="@" height="22" align="center">internet.ru 
 
 ---
 
