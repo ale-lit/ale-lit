@@ -25,10 +25,10 @@
 </div>
 
 **📢 Мои контакты:**
-
-**tg:** https://t.me/alelitv
-
-**mail:** alelit<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog6.svg" alt="@" title="@" height="22" align="center">internet.ru 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tg:** https://t.me/alelitv
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mail:** alelit<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog6.svg" alt="@" title="@" height="22" align="center">internet.ru
 
 ---
 
