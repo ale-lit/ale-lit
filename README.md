@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://github.com/ale-lit/ale-lit/blob/main/giphy.gif" align="center">
+<p align="center"><img src="https://github.com/ale-lit/ale-lit/blob/main/giphy.gif"></p>
 
 **📝 Обо мне:**
 
