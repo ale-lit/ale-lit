@@ -28,7 +28,7 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tg:** https://t.me/alelitv
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mail:** alelit[<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog7.svg" alt="@" title="@" height="22" align="top">](#_)internet.ru
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mail:** alelit[<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog-new.svg" alt="@" title="@" height="22" align="top">](#_)internet.ru
 
 ---
 
