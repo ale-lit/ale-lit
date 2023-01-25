@@ -6,14 +6,6 @@
 <p align="center"><a href="#_"><img src="https://github.com/ale-lit/ale-lit/blob/main/giphy.gif"></a></p>
 </div>
 
-**📢 Мои контакты:**
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tg:** https://t.me/alelitv
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mail:** alelit[<img src="https://github.com/ale-lit/ale-lit/blob/main/icons/dog-new3.svg" alt="@" title="@" height="22" align="top">](#_)internet.ru
-
----
-
 <div align="center">
   
 | **Мой стек** |
