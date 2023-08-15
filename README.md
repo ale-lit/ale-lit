@@ -1,8 +1,4 @@
 <div align="center">
-  
-### Привет, меня зовут Александр, и&nbsp;я&nbsp;занимаюсь веб-разработкой! 👋   
-</div>
-
 <p align="center"><a href="#_"><img src="https://github.com/ale-lit/ale-lit/blob/main/giphy.gif"></a></p>
 </div>
 
